@@ -12,6 +12,7 @@ public class Week4_Git_Test {
      */
     public static void main(String[] args) {
         System.out.println("Testing week 4 git");
+        System.out.println("Hello from github");
     }
 
 }
